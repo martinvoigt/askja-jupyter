@@ -1,0 +1,8 @@
+name: carbfix-environment
+dependencies:
+  - python
+  - pip
+  - pip:
+    - IPhreeqcPy
+    - numpy
+    - pandas
